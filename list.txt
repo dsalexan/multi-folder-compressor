@@ -1,4 +1,4 @@
-./Bruno
-./Gu
-./Lucas
-./Nikito
+./test/Bruno
+./test/Gu
+./test/Lucas
+./test/Nikito
